@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+}
+.App {
+  background-color: #111;
+}
+
+.MuiSvgIcon-root {
+  margin-right: 1%;
+  margin-bottom: 3%;
+  position: fixed;
+  right: 0px;
+}
+.ReactModal__Overlay {
+  background-color: rgba(255, 255, 255, 0.2) !important;
+}
